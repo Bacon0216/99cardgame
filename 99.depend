@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1742792163 source:c:\users\user\documents\c++ script\99\ninenine.cpp
+	<iostream>
+	"ninenine.h"
+
+1743133673 c:\users\user\documents\c++ script\99\ninenine.h
+	<iostream>
+
+1743135154 source:c:\users\user\documents\c++ script\99\nineninemain.cpp
+	<iostream>
+	<random>
+	"ninenine.h"
+
